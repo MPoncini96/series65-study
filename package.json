@@ -1,0 +1,7 @@
+{
+  "name": "series65-study",
+  "private": true,
+  "version": "1.0.0",
+  "engines": { "node": ">=20" },
+  "dependencies": { "@vercel/blob": "^2.8.0" }
+}
